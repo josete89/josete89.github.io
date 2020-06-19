@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Engineering Stories on Jose Luis Alcala</title>
-    <link>http://example.org/</link>
+    <link>http://josete89.github.io/</link>
     <description>Recent content in Software Engineering Stories on Jose Luis Alcala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jun 2020 16:57:54 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://josete89.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Team Behind Gamer</title>
-      <link>http://example.org/posts/team-behind-gamer/</link>
+      <link>http://josete89.github.io/posts/team-behind-gamer/</link>
       <pubDate>Fri, 19 Jun 2020 16:57:54 +0200</pubDate>
       
-      <guid>http://example.org/posts/team-behind-gamer/</guid>
+      <guid>http://josete89.github.io/posts/team-behind-gamer/</guid>
       <description>Not sure if all you knows about the GMR product, let me give some context about that.</description>
     </item>
     
