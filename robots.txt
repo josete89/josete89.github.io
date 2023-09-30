@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://josete89.github.io/sitemap.xml
